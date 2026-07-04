@@ -41,11 +41,11 @@ Hill Climbing repeatedly moves to a neighbouring route that lowers the total dis
 
 **Main application window (sample commute loaded):**
 
-![Main window](screenshots/screenshot1.png)
+![Main window](screenshot1.png)
 
 **Optimised route with results:**
 
-![Optimised route](screenshots/screenshot2.png)
+![Optimised route](screenshot2.png)
 
 ## Requirements
 
@@ -93,7 +93,6 @@ I used AI (Claude) as a learning and debugging aid — for example, to help me s
 commute-route-optimizer/
 ├── commute_route_optimizer.py   # main application (algorithm + Tkinter GUI)
 ├── README.md
-└── screenshots/
-    ├── screenshot1.png
-    └── screenshot2.png
+├── screenshot1.png
+└── screenshot2.png
 ```
